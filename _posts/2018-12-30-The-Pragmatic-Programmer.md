@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project: Reading more
+title: The Pragmatic Programmer
 ---
 
 The first book is a book about developing, and is to be 
